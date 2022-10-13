@@ -1,4 +1,4 @@
-Alfred workflow to replace semicolons/ commas from the clipboard
+# Alfred workflow to replace semicolons/ commas from the clipboard
 
 ## The problem
 Keywords in academic articles are usually separated by semicolons or commas but if you try to copy and paste these keywords into Zotero (and possibly other reference managers), the whole list will be converted into a single tag. 
